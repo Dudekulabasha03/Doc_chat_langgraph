@@ -1,0 +1,40 @@
+2025-09-03 12:56:15 | INFO | Processing new/changed documents...
+2025-09-03 12:56:15 | INFO | Loading from cache: /private/var/folders/15/hqclk4353_l51c13cj58lh5m0000gn/T/gradio/13f8f00cf6cc08744d6c5feb99fbfbb7f6e42b2c10787ccfd2dfd909867c8c5b/google-2024-environmental-report.pdf
+2025-09-03 12:56:15 | INFO | Total unique chunks: 327
+2025-09-03 12:56:26 | ERROR | Processing error: Could not import rank_bm25, please install with `pip install rank_bm25`.
+2025-09-03 15:09:55 | INFO | Processing new/changed documents...
+2025-09-03 15:09:55 | INFO | Loading from cache: /private/var/folders/15/hqclk4353_l51c13cj58lh5m0000gn/T/gradio/0b5c2a6b7984009bfd9fb9f28cf3bfc40d3f120e72a08e49dde166894b4b0306/DeepSeek Technical Report.pdf
+2025-09-03 15:09:55 | INFO | Total unique chunks: 29
+2025-09-03 15:15:28 | INFO | Processing new/changed documents...
+2025-09-03 15:15:28 | INFO | Processing and caching: /private/var/folders/15/hqclk4353_l51c13cj58lh5m0000gn/T/gradio/d1acc40887593116926307258ca4ca9e289a53f2f58cd8c98360dc39c50d7041/Mahaboobbasha-Dudekula-FlowCV-Resume-20250903.pdf
+2025-09-03 15:17:56 | ERROR | Failed to process /private/var/folders/15/hqclk4353_l51c13cj58lh5m0000gn/T/gradio/d1acc40887593116926307258ca4ca9e289a53f2f58cd8c98360dc39c50d7041/Mahaboobbasha-Dudekula-FlowCV-Resume-20250903.pdf: (ReadTimeoutError("HTTPSConnectionPool(host='cdn-lfs-us-1.hf.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: f2d47e08-08fd-423b-b076-008232aeed15)')
+2025-09-03 15:17:56 | INFO | Total unique chunks: 0
+2025-09-03 15:17:57 | ERROR | Processing error: Expected Embeddings to be non-empty list or numpy array, got [] in upsert.
+2025-09-03 15:38:14 | INFO | Processing new/changed documents...
+2025-09-03 15:38:14 | INFO | Processing and caching: /private/var/folders/15/hqclk4353_l51c13cj58lh5m0000gn/T/gradio/d1acc40887593116926307258ca4ca9e289a53f2f58cd8c98360dc39c50d7041/Mahaboobbasha-Dudekula-FlowCV-Resume-20250903.pdf
+2025-09-03 15:38:14 | INFO | Trying pypdfium2 for /private/var/folders/15/hqclk4353_l51c13cj58lh5m0000gn/T/gradio/d1acc40887593116926307258ca4ca9e289a53f2f58cd8c98360dc39c50d7041/Mahaboobbasha-Dudekula-FlowCV-Resume-20250903.pdf
+2025-09-03 15:38:14 | INFO | Total unique chunks: 3
+2025-09-03 15:38:15 | INFO | Successfully processed 3 document chunks
+2025-09-03 16:25:27 | INFO | Processing new/changed documents...
+2025-09-03 16:25:27 | INFO | Processing and caching: /private/var/folders/15/hqclk4353_l51c13cj58lh5m0000gn/T/gradio/a7a8711a44409935ed332d342fa8cf6d894b8c3c490f80c2524a90b2231026ec/Introduction to RAG.pdf
+2025-09-03 16:25:27 | INFO | Trying pypdfium2 for /private/var/folders/15/hqclk4353_l51c13cj58lh5m0000gn/T/gradio/a7a8711a44409935ed332d342fa8cf6d894b8c3c490f80c2524a90b2231026ec/Introduction to RAG.pdf
+2025-09-03 16:25:27 | INFO | Total unique chunks: 34
+2025-09-03 16:25:30 | ERROR | Processing error: Could not import rank_bm25, please install with `pip install rank_bm25`.
+2025-09-03 16:27:09 | INFO | Processing new/changed documents...
+2025-09-03 16:27:10 | INFO | Processing and caching: /private/var/folders/15/hqclk4353_l51c13cj58lh5m0000gn/T/gradio/c96a3ebbbc4e22ac8a7a73f01645303d7d5b591e2e6e610c352791f2a4c8b9a8/Explainx.ai_RAG.pdf
+2025-09-03 16:27:10 | INFO | Trying pypdfium2 for /private/var/folders/15/hqclk4353_l51c13cj58lh5m0000gn/T/gradio/c96a3ebbbc4e22ac8a7a73f01645303d7d5b591e2e6e610c352791f2a4c8b9a8/Explainx.ai_RAG.pdf
+2025-09-03 16:27:10 | INFO | Total unique chunks: 173
+2025-09-03 16:27:13 | INFO | Successfully processed 173 document chunks
+2025-09-20 02:46:54 | INFO | Processing new/changed documents...
+2025-09-20 02:46:54 | INFO | Processing and caching: /private/var/folders/15/hqclk4353_l51c13cj58lh5m0000gn/T/gradio/d0804fdd8064462c6823bb8c455f18a97b4bc57ecaf263a0be2eb76c543c100d/companyPolicies.txt
+2025-09-20 02:46:54 | INFO | Total unique chunks: 27
+2025-09-20 02:46:56 | ERROR | Processing error: Could not import rank_bm25, please install with `pip install rank_bm25`.
+2025-09-20 02:48:02 | INFO | Processing new/changed documents...
+2025-09-20 02:48:02 | INFO | Loading from cache: /private/var/folders/15/hqclk4353_l51c13cj58lh5m0000gn/T/gradio/d0804fdd8064462c6823bb8c455f18a97b4bc57ecaf263a0be2eb76c543c100d/companyPolicies.txt
+2025-09-20 02:48:02 | INFO | Total unique chunks: 27
+2025-09-20 02:48:03 | INFO | Successfully processed 27 document chunks
+2025-09-21 23:12:25 | WARNING | Validation error: ❌ Question cannot be empty
+2025-09-22 01:03:00 | INFO | Processing new/changed documents...
+2025-09-22 01:03:00 | INFO | Loading from cache: /private/var/folders/15/hqclk4353_l51c13cj58lh5m0000gn/T/gradio/d0804fdd8064462c6823bb8c455f18a97b4bc57ecaf263a0be2eb76c543c100d/companyPolicies.txt
+2025-09-22 01:03:00 | INFO | Total unique chunks: 27
+2025-09-22 01:03:02 | INFO | Successfully processed 27 document chunks
