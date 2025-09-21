@@ -1,9 +1,8 @@
-# Doc_chat_langgraph
 # 🐥 DocChat Enhanced UI - Advanced Document Analysis Platform
 
 ## 🌟 Overview
 
-The enhanced DocChat UI provides a completely redesigned interface for advanced document analysis, featuring improved user experience, comprehensive verification reporting, and enhanced functionality for document processing and AI-powered question answering.
+The enhanced DocChat UI provides a completely interface for advanced document analysis, featuring improved user experience, comprehensive verification reporting, and enhanced functionality for document processing and  question answering.
 
 ## ✨ New Features
 
